@@ -1,0 +1,29 @@
+<svg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="13.1704" cy="14.1589" r="12.1597" stroke="#212121"/>
+<mask id="mask0_183_22789" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="28">
+<rect x="7.52637" y="0.988525" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="7.52637" y="8.51465" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="7.52637" y="16.0408" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="7.52637" y="23.5664" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="11.2891" y="4.75146" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="11.2891" y="12.2776" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="11.2891" y="19.8035" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="18.8154" y="4.75146" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="18.8154" y="12.2776" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="18.8154" y="19.8035" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="3.76318" y="4.75146" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="3.76318" y="12.2776" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="3.76318" y="19.8035" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="15.0522" y="0.988525" width="3.76302" height="3.76302" fill="#212121"/>
+<rect y="8.5144" width="3.76302" height="3.76302" fill="#212121"/>
+<rect y="16.0405" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="15.0522" y="8.51465" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="15.0522" y="16.0408" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="15.0522" y="23.5664" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="22.5781" y="8.51465" width="3.76302" height="3.76302" fill="#212121"/>
+<rect x="22.5781" y="16.0408" width="3.76302" height="3.76302" fill="#212121"/>
+</mask>
+<g mask="url(#mask0_183_22789)">
+<circle cx="13.1704" cy="14.1589" r="12.6597" fill="#212121"/>
+</g>
+</svg>

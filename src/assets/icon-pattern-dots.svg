@@ -1,0 +1,25 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="13.1704" cy="13.3289" r="12.1597" stroke="#212121"/>
+<mask id="mask0_183_22790" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="2" y="1" width="22" height="25">
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 11.8936 15.0635)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 11.8936 5.02661)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 11.8936 25.1001)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 8.42432 10.0449)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 8.42432 20.0818)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 17.916 15.0635)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 17.916 5.02661)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 17.916 25.1001)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 14.4468 10.0449)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 14.4468 20.0818)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 5.87158 15.0635)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 5.87158 5.02661)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 5.87158 25.1001)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 2.40234 10.0449)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 2.40234 20.0818)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 20.4692 10.0449)" fill="#212121"/>
+<circle cx="1.73462" cy="1.73462" r="1.73462" transform="matrix(1 0 0 -1 20.4692 20.0818)" fill="#212121"/>
+</mask>
+<g mask="url(#mask0_183_22790)">
+<circle cx="13.1704" cy="13.3289" r="12.6597" fill="#212121"/>
+</g>
+</svg>

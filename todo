@@ -1,0 +1,25 @@
+lapel pins icon is missing
+missing tie images ✅
+
+lazy load images ✅
+include speed test
+reserve 2 lines of space in panels ✅
+mention that its currently client rendered using Vite - but could easily be rendered using nextJS - for SEO
+
+sort out footer ✅
+sort of font-sizes ✅
+make header responsive ✅
+image hover effect ✅
+hover effects ✅
+reduce font-size at breakpoint ✅
+fix gap at the end of mini panels ✅ 
+make logo a link ✅
+improve mega menu ✅
+style product component better ✅
+set component in Section header, footer etc ✅
+break banner hero into an image on top with content below on mobile ✅
+benefits better styling on mobile ✅
+mobile menu
+structure folders better
+socials hover style
+move the megamenu down a tiny bit
